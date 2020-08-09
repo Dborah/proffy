@@ -27,24 +27,6 @@
 - <a href="https://pt-br.reactjs.org/" style="text-decoration: none; font-size: 16px; color: #fff;" >React JS </a>
 - <a href="https://reactnative.dev/" style="text-decoration: none; font-size: 16px; color: #fff;" >React Native </a>
 
-## Features:
-
-- [x] Cadastro de aulas
-- [x] Listagem de aulas filtrada
-- [x] Listagem de professores favoritos
-- [x] Total de conexões realizadas
-- [ ] Cadastro de usuários
-- [ ] Login de usuário
-- [ ] Perfil de usuário
-
-## Extra:
-
-- [x] Styled Components
-- [ ] Unform
-- [ ] Redux ou Context API
-- [ ] Picker
-- [ ] Themes
-
 ## Autor:
 
 Feito com ❤️ por Déborah Fonseca!
